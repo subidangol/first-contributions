@@ -37,6 +37,7 @@
 - [Lian Thompson](https://github.com/lianthompson)
 - [Deny Purnama Ramadan](https://github.com/ramadandeny)
 - [Mughees Hafeez](https://github.com/mugheeshafeez)
+- [Subi Dangol](
 - [Sabine Maennel](https://github.com/sabinem)
 - [Johnson Ogwuru](https://github.com/ogwurujohnson)
 - [Alp Deveci](https://github.com/iceveda06)
@@ -4002,3 +4003,4 @@
 - [Krishanu Singh](https://github.com/Krishanu230)
 - [ZHiao li](https://github.com/Zhiaoli1992)
 - [Zachery Emerson](https://github.com/zacisme07)
+- [Subi Dangol](https://github.com/subidangol)
